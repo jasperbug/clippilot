@@ -1,0 +1,8 @@
+{
+  "name": "streamer-relay",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "tsx --test test/*.test.ts", "typecheck": "tsc --noEmit" },
+  "devDependencies": { "@types/node": "^20", "tsx": "^4", "typescript": "^5" }
+}

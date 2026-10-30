@@ -1,0 +1,7 @@
+node_modules
+.vercel
+.env*
+.relay_secrets.env
+.twitch_token.env
+.twitch_app.env
+.envfiles
